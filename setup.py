@@ -1,4 +1,5 @@
 from distutils.core import setup
+from setuptools import setup #CK
  
 setup(name = "NeuroPy",
       version = "0.1",
